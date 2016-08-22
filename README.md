@@ -21,5 +21,6 @@ Price Updater Magento1 extension update the price for specific IP address only.
 * In backend menu click on (Paarth Price Updater > configuration).
 * Enable module & enter the IP address.
 
-![Alt Text](https://github.com/PaarthKumar/Price_Updater/images/Price_Updater_Configuration.png) 
+![solarized vim](https://github.com/PaarthKumar/Price_Updater/raw/master/images/Price_Updater_Configuration.png) 
+
 
