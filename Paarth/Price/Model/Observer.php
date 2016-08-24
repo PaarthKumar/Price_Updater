@@ -45,8 +45,8 @@ class Paarth_Price_Model_Observer
 	
 	     $helper = Mage::helper('price');
 		 $moduleEnable = $helper->getEnabled();
-	 	echo  $Ip = $helper->getIP();
-	echo 	$userIP =  $helper->getUserIP();
+	     $Ip = $helper->getIP();
+	     $userIP =  $helper->getUserIP();
 		
 		
 	if($moduleEnable == 1  && $Ip == $userIP)
