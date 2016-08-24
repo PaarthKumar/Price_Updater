@@ -1,6 +1,6 @@
 # Overview
 
-Price Updater Magento1 extension update the price for specific IP address only. 
+Price Updater Magento1 extension <b>update or increase products pricing by 20%  </b> for specific IP address only. 
 
 ##### Features
 
@@ -20,3 +20,7 @@ Price Updater Magento1 extension update the price for specific IP address only.
 
 * In backend menu click on (Paarth Price Updater > configuration).
 * Enable module & enter the IP address.
+
+![Backend Configuration](https://github.com/PaarthKumar/Price_Updater/blob/master/Images/Price.PNG) 
+
+
